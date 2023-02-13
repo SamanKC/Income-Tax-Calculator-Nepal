@@ -7,20 +7,17 @@ This is a simple and easy-to-use Income Tax Calculator for Nepali citizens. The 
 - Accurate and up-to-date tax calculation based on current Nepali tax rules and regulations
 - Clear and concise tax summary, showing the amount of tax payable, taxable income, and tax slab
 ## How to use
-. Enter your taxable income in the "Taxable Income" field.
-. The calculator will automatically calculate your tax liability based on the current tax rules and regulations in Nepal.
-. The "Tax Summary" section will show the amount of tax payable, taxable income, and tax slab.
+1. Enter your taxable income in the "Taxable Income" field.
+2. The calculator will automatically calculate your tax liability based on the current tax rules and regulations in Nepal.
+3. The "Tax Summary" section will show the amount of tax payable, taxable income, and tax slab.
 ## Requirements
-A device running Flutter
-An internet connection (for downloading the Flutter packages)
-Installation
-Clone the repository to your local machine
-bash
-Copy code
-git clone <https://github.com/<username>/IncomeTaxCalculatorNepal.git>
-Navigate to the project directory
-bash
-Copy code
+- A device running Flutter
+- An internet connection (for downloading the Flutter packages)
+## Installation
+- Clone the repository to your local machine
+-- git clone <https://github.com/<username>/IncomeTaxCalculatorNepal.git>
+
+- Navigate to the project directory
 cd IncomeTaxCalculatorNepal
 Run the following command to install the dependencies
 csharp
