@@ -15,7 +15,9 @@ This is a simple and easy-to-use Income Tax Calculator for Nepali citizens. The 
 - An internet connection (for downloading the Flutter packages)
 ## Installation
 - Clone the repository to your local machine
+-----------
 ```git clone <https://github.com/<username>/IncomeTaxCalculatorNepal.git>```
+------------
 
 - Navigate to the project directory
 cd IncomeTaxCalculatorNepal
