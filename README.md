@@ -2,14 +2,14 @@
 This is a simple and easy-to-use Income Tax Calculator for Nepali citizens. The calculator has been developed using Flutter, making it a fast and reliable tool for calculating the income tax liability in Nepal. The app calculates the tax amount based on the current tax rules and regulations of the Nepali government.
 
 ## Features
-User-friendly interface
-Easy and fast calculation of income tax liability
-Accurate and up-to-date tax calculation based on current Nepali tax rules and regulations
-Clear and concise tax summary, showing the amount of tax payable, taxable income, and tax slab
+- User-friendly interface
+- Easy and fast calculation of income tax liability
+- Accurate and up-to-date tax calculation based on current Nepali tax rules and regulations
+- Clear and concise tax summary, showing the amount of tax payable, taxable income, and tax slab
 ## How to use
-Enter your taxable income in the "Taxable Income" field.
-The calculator will automatically calculate your tax liability based on the current tax rules and regulations in Nepal.
-The "Tax Summary" section will show the amount of tax payable, taxable income, and tax slab.
+. Enter your taxable income in the "Taxable Income" field.
+. The calculator will automatically calculate your tax liability based on the current tax rules and regulations in Nepal.
+. The "Tax Summary" section will show the amount of tax payable, taxable income, and tax slab.
 ## Requirements
 A device running Flutter
 An internet connection (for downloading the Flutter packages)
