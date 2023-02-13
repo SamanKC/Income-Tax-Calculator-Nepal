@@ -1,4 +1,4 @@
-###Income Tax Calculator - Nepal
+### Income Tax Calculator - Nepal
 This is a simple and easy-to-use Income Tax Calculator for Nepali citizens. The calculator has been developed using Flutter, making it a fast and reliable tool for calculating the income tax liability in Nepal. The app calculates the tax amount based on the current tax rules and regulations of the Nepali government.
 
 ### Features
